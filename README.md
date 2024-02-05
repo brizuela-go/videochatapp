@@ -7,7 +7,7 @@ This is a simple video chat app made with [Livekit](https://livekit.io) and [Nex
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/brizuela-go/videochatapp
 ```
 
 2. Install dependencies
